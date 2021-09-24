@@ -3,7 +3,7 @@ Name=Space Cadet Pinball
 Exec=/usr/bin/SpaceCadetPinball --notray
 Terminal=false
 Type=Application
-Icon=/usr/ahare/icons/pinball.ico
+Icon=/usr/share/icons/silverball.png
 Comment=Space Cadet Pinball
 Categories=Game;
 
